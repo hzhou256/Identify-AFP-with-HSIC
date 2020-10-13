@@ -13,4 +13,4 @@ Antifungal peptides, Multiple kernel fusion, Hilbert-Schmidt Independence Criter
 
 Framework:
 
-![Image text]()
+![Image text](https://raw.githubusercontent.com/hzhou256/Identify-AFP-with-HSIC/main/framework.png)
