@@ -7,6 +7,3 @@ Keywords:
 
 Antifungal peptides, Multiple kernel fusion, Hilbert-Schmidt Independence Criterion, Support Vector Machine.
 
-Framework:
-
-![Image text](https://raw.githubusercontent.com/hzhou256/Identify-AFP-with-HSIC/main/framework.png)
